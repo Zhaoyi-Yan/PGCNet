@@ -1,2 +1,2 @@
 # PGCNet
-Code will be avaliable soon.
+PaddlePaddle code will be avaliable soon.
