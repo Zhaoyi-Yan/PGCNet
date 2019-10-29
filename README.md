@@ -8,9 +8,10 @@ https://ai.baidu.com/broad/subordinate?dataset=crowd_surv.
 If you find this work useful, please cite:
 ```
 @inproceedings{yan2019perspective,
-  title={Perspective-Guided Convolution Networks for Crowd Counting},
-  author={Yan, Zhaoyi and Yuan, Yuchen and Zuo, Wangmeng and Tan, Xiao and Wang, Yezhen and Wen, Shilei and Ding, Errui},
-  booktitle={Proceedings of the IEEE Conference on Computer Vision (ICCV)},
-  year={2019}
+  title = {Perspective-Guided Convolution Networks for Crowd Counting},
+  author = {Yan, Zhaoyi and Yuan, Yuchen and Zuo, Wangmeng and Tan, Xiao and Wang, Yezhen and Wen, Shilei and Ding, Errui},
+  booktitle = {The IEEE International Conference on Computer Vision (ICCV)},
+  month = {October},
+  year = {2019}
 }
 ```
