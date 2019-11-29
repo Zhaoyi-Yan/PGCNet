@@ -1,6 +1,8 @@
 # PGCNet
 PaddlePaddle code will be avaliable soon.
 
+For pytorch re-implemention, refer to https://github.com/Zhaoyi-Yan/PGCNet_pytorch.
+
 New crowd counting dataset **Crowd Surveillance** is avaliable at:
 
 https://ai.baidu.com/broad/subordinate?dataset=crowd_surv.
