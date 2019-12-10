@@ -1,7 +1,7 @@
 # PGCNet
 PaddlePaddle code will be avaliable soon.
 
-We are preparing code for PGCNet_v2, so will release that code when it is ready.
+We are preparing code for PGCNet_v2 (journal version of PGCNet), and will release that code when it is ready.
 
 New crowd counting dataset **Crowd Surveillance** is avaliable at:
 
