@@ -1,8 +1,6 @@
 # PGCNet
 PaddlePaddle code will be avaliable soon.
 
-We are preparing code for PGCNet_v2 (journal version of PGCNet), and will release that code when it is ready.
-
 New crowd counting dataset **Crowd Surveillance** is avaliable at:
 
 https://ai.baidu.com/broad/subordinate?dataset=crowd_surv.
@@ -17,3 +15,6 @@ If you find this work useful, please cite:
   year = {2019}
 }
 ```
+
+PFDNet is the extension of PGCNet, which is available in:
+https://github.com/Zhaoyi-Yan/PFDNet
