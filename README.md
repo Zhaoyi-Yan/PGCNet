@@ -16,5 +16,5 @@ If you find this work useful, please cite:
 }
 ```
 
-PFDNet is the extension of PGCNet, which is available in:
-https://github.com/Zhaoyi-Yan/PFDNet
+**PFDNet** is the extension of PGCNet, which is available in:
+https://github.com/Zhaoyi-Yan/PFDNet, https://ieeexplore.ieee.org/abstract/document/9468694
